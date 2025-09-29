@@ -6,6 +6,7 @@
 	"exports": "./build/index.js",
 	"types": "./build/index.d.ts",
 	"license": "MIT",
+	"repository": "github:gjuchault/connect-valkey",
 	"engines": {
 		"node": "^24.3.0",
 		"npm": "^11.4.2"
